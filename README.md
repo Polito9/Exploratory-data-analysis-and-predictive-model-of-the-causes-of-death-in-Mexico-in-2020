@@ -1,12 +1,8 @@
-<div style="text-align: center">
-
-<h4><b>¿Qué pasó en el 2020? Un breve análisis exploratorio de datos y un modelo predictivo de causa de muerte en ese año</b></h4> 
+# ¿Qué pasó en el 2020? Un breve análisis exploratorio de datos y un modelo predictivo de causa de muerte en ese año</b></h4> 
 
 <h5><b>Matemáticas y Ciencia de Datos para la Toma de Decisiones</b></h5>  
 
-<h5><b>Diego Colin Reyes</b></h5>  
-
-</div>
+<b>Diego Colin Reyes</b></h5>  
 
 ### Introducción
 
