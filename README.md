@@ -1,21 +1,21 @@
-# ¿Qué pasó en el 2020? Un breve análisis exploratorio de datos y un modelo predictivo de causa de muerte en ese año</b></h4> 
+# What happened in 2020? A brief exploratory data analysis and a predictive model of cause of death in that year.</b></h4> 
 
-<h5><b>Matemáticas y Ciencia de Datos para la Toma de Decisiones</b></h5>  
+<h5><b>Mathematics and Data Science for Decision Making</b></h5>  
 
 <b>Diego Colin Reyes</b></h5>  
 
-### Introducción
+### Introduction
 
 <div style="text-align: justify">
 
-Se analizará la base de datos "Conjunto de Defunciones registradas 2020" recuperada de los datos abiertos de la [Secretaría de Salud](https://datos.gob.mx/busca/dataset/defunciones) una página oficial del gobierno de México donde se recopilan datos públicos respecto a varios temas en aspectos de salud. Esta base cuenta con alrededor de 1.1 millones de registros de defunciones a nivel nacional ocurridas en el 2020, se revisará esta base con la intención de mostrar algunas situaciones interesantes ocurridas durante ese año, como estados con mayor cantidad de suicidios, que estados tuvieron mayores fallecimientos por covid o los homicidios por estado. Esto con el fin de al final realizar un modelo predictivo que te intente dar la causa de muerte mas probable de acuerdo a ciertas variables, se verificará su precisión y se darán conclusiones al respecto.
+We will analyze the database “Set of Registered Deaths 2020” retrieved from the open data of the [Secretaría de Salud](https://datos.gob.mx/busca/dataset/defunciones) an official page of the Mexican government where public data is compiled regarding various health issues. This database has about 1.1 million records of deaths nationwide occurred in 2020, this database will be reviewed with the intention of showing some interesting situations occurred during that year, such as states with more suicides, which states had more deaths by covid or homicides by state. This in order to finally make a predictive model that will try to give you the most probable cause of death according to certain variables, its accuracy will be verified and conclusions will be drawn.
 </div>
 
 
-### Antecedentes
+### Background
 
 <div style="text-align: justify">
 
-El año 2020 fue un año histórico a nivel mundial, se estaba trabajando en las vacunas por el COVID-19 y la población se encontraba en pandemia, además de que se no se sabía mucho del virus y tampoco había todavía ninguna vacuna efectiva, la población a nivel mundial se encerró por meses sin saber que era lo que iba a pasar, por ello es importante ver que es lo que sucedió durante ese año, específicamente en las defunciones ocurridas, así como ver las principales causas de muerte ese año, grupos de edad interesantes, presuntas defunciones violentas, como otros aspectos que se pueden recuperar de esta base de datos.
+The year 2020 was a historic year worldwide, vaccines were being worked on by COVID-19 and the population was in a pandemic, in addition to the fact that not much was known about the virus and there was still no effective vaccine, the population worldwide was locked up for months without knowing what was going to happen, It is therefore important to see what happened during that year, specifically in the deaths that occurred, as well as to see the main causes of death that year, interesting age groups, presumed violent deaths, as well as other aspects that can be recovered from this database.
 
 </div>
